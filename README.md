@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archit Ghevariya</h1>
-<h3 align="center">A IT Student and programmer from India</h3>
+<h3 align="center">An IT Student and programmer from India</h3>
 
 - 🔭 I’m currently working on **Personal Website**
 
