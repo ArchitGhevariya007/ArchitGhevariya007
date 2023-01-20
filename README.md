@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit Ghevariya</h1>
 <h3 align="center">An IT Student and programmer from India</h3>
 
-- 🔭 I’m currently working on **RFID based Attendance System**
+- 🔭 I’m currently working on **RFID based Attendance Management System**
 
 - 🌱 I’m currently learning **Java**
 
