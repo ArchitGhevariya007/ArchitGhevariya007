@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Archit Ghevariya</h1>
 <h3 align="center">An IT Student and programmer from India</h3>
 
-- 🔭 I’m currently working on **RFID based Attendance Management System**
+- 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArchitGhevariya007](https://github.com/ArchitGhevariya007)
 
