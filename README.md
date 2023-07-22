@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Archit Ghevariya</h1>
 <h3 align="center">An IT Student and programmer from India</h3>
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **Chat application**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArchitGhevariya007](https://github.com/ArchitGhevariya007)
 
