@@ -8,8 +8,6 @@
 - 💬 Ask me about **React.js, Node.js**
 
 - 📫 How to reach me **ghevariyaarchit3@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
