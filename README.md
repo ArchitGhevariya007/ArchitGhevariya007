@@ -1,5 +1,17 @@
-## Hii, Myself Archit Ghevariya
+<h1 align="center">Hi 👋, I'm Archit Ghevariya</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **Cradle**
+
+- 🌱 I’m currently learning **Business**
+
+- 💬 Ask me about **React.js, Node.js**
+
+- 📫 How to reach me **ghevariyaarchit3@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/architghevariya/) 
