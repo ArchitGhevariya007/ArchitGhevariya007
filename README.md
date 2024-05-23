@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cradle**
 
-- 🌱 I’m currently learning **Business**
+- 🌱 I’m currently learning **Data Structure**
 
 - 💬 Ask me about **React.js, Node.js**
 
